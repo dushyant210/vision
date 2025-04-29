@@ -1,1 +1,3 @@
 https://raw.githubusercontent.com/dushyant210/vision/main/libvision.so
+
+https://raw.githubusercontent.com/dushyant210/vision/main/liblethal.so
