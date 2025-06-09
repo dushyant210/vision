@@ -1,4 +1,4 @@
 {
-  "version": "0.04",
-  "url": "https://raw.githubusercontent.com/dushyant210/vision/main/libv.so"
+  "version": "0.05",
+  "url": "https://raw.githubusercontent.com/dushyant210/vision/main/libL.so"
 }
